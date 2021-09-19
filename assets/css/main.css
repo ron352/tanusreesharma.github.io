@@ -3,11 +3,11 @@
 /****************************************************************************** Content *****************************************************************************/
 body { padding-bottom: 70px; color: #111; }
 
-body.fixed-top-nav { padding-top: 56px; }
+body.fixed-top-nav { padding-top: 30px; }
 
 body.sticky-bottom-footer { padding-bottom: 0; }
 
-.container { max-width: 1000px; }
+.container { max-width: 500px; }
 
 .profile img { width: 100%; }
 
